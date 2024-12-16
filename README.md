@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h1 align="center">Hey Everyone! 👋, I'm Utkarsh Upadhyay</h1>
+<h1 align="center">Everyone! 👋, I'm Utkarsh Upadhyay</h1>
 <h3 align="center">Student.</h3>
 
 ### 👋 About Me  
